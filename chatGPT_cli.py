@@ -1,8 +1,10 @@
 import openai
 import sys
 
+#Insert you API key from OpenAI
 API_KEY = "your-api-key-here"
 
+#Update model number of API if necessary
 def chat(conversation):
     response = openai.ChatCompletion.create(
         model="gpt-3.5-turbo",
