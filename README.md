@@ -1,7 +1,7 @@
 # chatGPT_cli
 This is a simple program created with ChatGPT to integrate ChatGPT API into the cli of Kali Linux. 
 
-The main features are using ChatGPT API as regular chat function, or pass a file as an argument and you can chat with the AI about the contents of the file.
+The main features are using ChatGPT API as regular chat function, or pass a file as an argument so you can chat with the AI about the contents of the file. You can refer to the file by name.
 
 Usage: 
 
